@@ -62,12 +62,6 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful in crea
 ## Data Privacy
 [Data Broker Opt-Out List](ami-0dea7760f514d7ce6) — List of opt-out's for data brokers
 
-## Data Breaches
-[Data-OSINT](https://github.com/cqcore/Data-OSINT) — List of data breach acquisition websites
-
-## Data Privacy
-[Data Broker Opt-Out List](ami-0dea7760f514d7ce6) — List of opt-out's for data brokers
-
 ## Distros
 [AthenaOS (Arch) Docker](https://hub.docker.com/u/athenaos) - [AthenaOS Pentesting](https://github.com/Athena-OS/athena-iso)
 
