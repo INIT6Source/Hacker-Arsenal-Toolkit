@@ -1,6 +1,6 @@
 # Hacker Tools and Resources
 
-List of Hacker/Infosec/CyberSec tools and resources that could be useful in creating Cyber Range content and materials.
+List of Hacker/Infosec/CyberSec tools and resources that could be useful.
 
 ## Active Directory
 [Linikatz](https://github.com/CiscoCXSecurity/linikatz) — [Mimikatz et al on UNIX](https://labs.portcullis.co.uk/download/eu-18-Wadhwa-Brown-Where-2-worlds-collide-Bringing-Mimikatz-et-al-to-UNIX.pdf)
