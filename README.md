@@ -26,6 +26,9 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful in crea
 ## Car Hacking
 [AutoHack OS](https://autohackos.com/) — Automotive Pentesting Distribution
 
+## Career 
+[Hacker Hiring Discord](https://github.com/INIT6Source/Hacker_Hiring_Discords) - Curated List of Hacker Discord Servers with Hiring Channels
+
 ##  CTF
 [Cloud CTF tools](https://github.com/DEAD10C5/ctf-cloud-tools) — Cloud CTF Docker Container
 
@@ -62,6 +65,9 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful in crea
 ## Data Privacy
 [Data Broker Opt-Out List](ami-0dea7760f514d7ce6) — List of opt-out's for data brokers
 
+## Discord
+[Hacker Discords](https://github.com/INIT6Source/Hacker_Discords) - Curated List of Hacker Discord Servers
+
 ## Forensics
 [Painless Peek](https://github.com/adacable/painlessPeek) — Browser extension to make it easier to more safely view traumatic imagery.
 
@@ -74,11 +80,15 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful in crea
 
 [Cybersecurity Resources](https://github.com/Nickyie/Cybersecurity-Resources) - Library of various cybersecurity resources
 
-[Defcon Arsenal Tools (DArT)](https://github.com/DefconParrot/DefconArsenalTools) — Tools presented at DEF CON
+[Defcon Parrot](https://github.com/DefconParrot) - Curated Lists of Tools, DCGs, Dates, etc
 
 [Exploit Notes](https://github.com/hideckies/exploit-notes) — Sticky notes for pentesting, bug bounty, and CTF
 
+[Free Tech Resources](https://github.com/shenetworks/Free_Tech_Resources) - Cybersecurity Content Creators & Free Learning Resources
+
 [Hack with GitHub](https://github.com/Hack-with-Github) — Open Source Hacking Tools database
+
+[Hacker Social Media](https://github.com/jimender2/Hacker_Social_Media)- Hacker Social Media & Cotent Creators
 
 [Mindmap](https://github.com/Ignitetechnologies/Mindmap) — Mindmaps for cyber security technologies, methodologies, courses, and certifications
 
