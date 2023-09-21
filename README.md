@@ -62,9 +62,6 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful in crea
 ## Data Privacy
 [Data Broker Opt-Out List](ami-0dea7760f514d7ce6) — List of opt-out's for data brokers
 
-## Distros
-[AttackGen](https://github.com/mrwadams/attackgen) — Generates tailored incident response scenarios based on user-selected threat actor groups and your organization's details.
-
 ## Data Breaches
 [Data-OSINT](https://github.com/cqcore/Data-OSINT) — List of data breach acquisition websites
 
