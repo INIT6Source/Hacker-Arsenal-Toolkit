@@ -65,7 +65,7 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful in crea
 ## Distros
 [AthenaOS (Arch) Docker](https://hub.docker.com/u/athenaos) - [AthenaOS Pentesting](https://github.com/Athena-OS/athena-iso)
 
-[AutoHack OS (Linux) VM]((https://bit.ly/autohackos)) — [Automotive Pentesting/Car Hacking](https://autohackos.com/); [Github](https://github.com/autohackos)
+[AutoHack OS (Linux) VM](https://bit.ly/autohackos) — [Automotive Pentesting/Car Hacking](https://autohackos.com/); [Github](https://github.com/autohackos)
 
 [BackTrack (Linux) VM](https://www.backtrack-linux.org/) - Kali before Kali
 
