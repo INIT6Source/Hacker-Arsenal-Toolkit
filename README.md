@@ -133,8 +133,6 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful in crea
 
 [Geolocation OSINT](https://github.com/cqcore/Geolocation-OSINT) — Geolocation challenge resources
 
-[IvoryTowerOSINT](https://github.com/INIT6Source/IvoryTowerOSINT) - University Directory List 
-
 [Trace Labs OSINT Search Party CTF](https://github.com/C3n7ral051nt4g3ncy/TraceLabs-Flag-Categories-Guide) — Flag categories for Trace Labs OSINT Search Party CTF events
 
 [WiGLE](https://www.wigle.net/) — Wireless Geographic Logging Engine
