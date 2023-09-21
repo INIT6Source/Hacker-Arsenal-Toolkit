@@ -65,6 +65,27 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful in crea
 ## Data Privacy
 [Data Broker Opt-Out List](ami-0dea7760f514d7ce6) — List of opt-out's for data brokers
 
+## Distros
+[AthenaOS (Arch) Docker](https://hub.docker.com/u/athenaos) - [AthenaOS Pentesting](https://github.com/Athena-OS/athena-iso)
+
+[AutoHack OS (Linux) VM](https://bit.ly/autohackos) — [Automotive Pentesting/Car Hacking](https://autohackos.com/); [Github](https://github.com/autohackos)
+
+[BackTrack (Linux) VM](https://www.backtrack-linux.org/) - Kali before Kali
+
+[BlackArch (Arch) Docker](https://hub.docker.com/r/blackarchlinux/blackarch) - [BlackArch Pentesting](https://blackarch.org/)
+
+[ControlThings (Linux) VM](https://www.controlthings.io/platform) - [ControlThings ICS/OT/SCADA](https://www.controlthings.io/)
+
+[Kali (Debian) VM](https://www.kali.org/get-kali/) - [Kali Liunx Pentesting](https://www.kali.org/)
+
+[Kali Purple (Debian) VM](https://cdimage.kali.org/kali-2023.3/kali-linux-2023.3-installer-purple-amd64.iso) - [Kali Purple - Red/Blue Team](https://gitlab.com/kalilinux/kali-purple/documentation/-/wikis/home)
+
+[Kali Nethunter (Android) Mobile](https://www.kali.org/get-kali/#kali-mobile) - [Kali but Android](https://www.kali.org/docs/nethunter/)
+
+[ParrotOS (Debian) Docker](https://parrotsec.org/docs/cloud/parrot-on-docker/) - [ParrotOS Pentesting](https://www.parrotsec.org/)
+
+[Security Onion 2.4 (Debian) Docker](https://aws.amazon.com/marketplace/pp/prodview-4gpqv3qlxq4ww?ref=_ptnr_soc_docs_230525?ref=_ptnr_soc_docs_230525#pdp-pricing) - [Security Onion SIEM](https://securityonionsolutions.com/)
+
 ## Discord
 [Hacker Discords](https://github.com/INIT6Source/Hacker_Discords) — Curated List of Hacker Discord Servers
 
@@ -95,6 +116,11 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful in crea
 [Offensive Bookmarks](https://github.com/kargisimos/offensive-bookmarks) — Collection of bookmarks for penetration testers, bug bounty hunters, malware developers, reverse engineers and anyone interested in infosec topics.
 
 ## ICS/SCADA/OT
+
+[ControlThings (Linux) VM](https://www.controlthings.io/platform) - [ControlThings ICS/OT/SCADA](https://www.controlthings.io/)
+
+[DEFCON ICS Village YouTube](https://www.youtube.com/channel/UCI_GT2-OMrsqqglv0JijHhw) - DEFCON ICS Village
+
 [DEFCON ICS Village YouTube](https://www.youtube.com/channel/UCI_GT2-OMrsqqglv0JijHhw) — DEFCON ICS Village
 
 [Industrial ICS/OT Cybersecurity](https://github.com/utilsec/Industrial_ICS_OT_Cyber_Security_Resources) — List of resources for industrial (ICS/OT) cybersecurity
