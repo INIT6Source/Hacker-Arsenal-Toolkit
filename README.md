@@ -30,23 +30,23 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful in crea
 [Hacker Hiring Discord](https://github.com/INIT6Source/Hacker_Hiring_Discords) — Curated List of Hacker Discord Servers with Hiring Channels
 
 ##  CTF
-[Cloud CTF tools](https://github.com/DEAD10C5/ctf-cloud-tools) — Cloud CTF Docker Container
+[Cloud CTF Tools](https://github.com/DEAD10C5/ctf-cloud-tools) — Cloud CTF Docker Container
 
-[CTFd — Platform](https://github.com/CTFd/CTFd) — CTFs as you need them; Hosting — [CTFd.io](https://ctfd.io/)
+[CTFd Platform](https://github.com/CTFd/CTFd) — CTFs as you need them; Hosting — [CTFd.io](https://ctfd.io/)
 
 [CTF Writeups](https://github.com/daffainfo/ctf-writeup) — Writeups of CTFs
 
-[Hack The Vote - Challenge Repo](https://github.com/RPISEC/HackTheVote) — 48hr Jeopardy-style Capture The Flag (CTF)
+[Hack The Vote Challenge Repo](https://github.com/RPISEC/HackTheVote) — 48hr Jeopardy-style Capture The Flag (CTF)
 
-[HorQRux — Tool](https://github.com/jzck/horqrux) — Splitting a QR code into seven fragments
+[HorQRux Tool](https://github.com/jzck/horqrux) — Splitting a QR code into seven fragments
 
-[NoiseFest — Challenge Repo](NoiseFest-CTF-2023) — PCAPs and prompts from GreyNoise's 2023 CTF at NoiseFest
+[NoiseFest Challenge Repo](NoiseFest-CTF-2023) — PCAPs and prompts from GreyNoise's 2023 CTF at NoiseFest
 
-[No More Secrets — Tool](https://github.com/bartobri/no-more-secrets) — Command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
+[No More Secrets Tool](https://github.com/bartobri/no-more-secrets) — Command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 
-[Red-Team Village CTF DC31 2023 — Challenge Repo](https://github.com/BC-SECURITY/Red-Team-Village-CTF-2023) — Secure Terminal CTF Challenges for DC31 Red Team Village
+[Red-Team Village CTF DC31 2023 Challenge Repo](https://github.com/BC-SECURITY/Red-Team-Village-CTF-2023) — Secure Terminal CTF Challenges for DC31 Red Team Village
 
-[Trace Labs OSINT Search Party CTF — Participation Guide](https://github.com/C3n7ral051nt4g3ncy/TraceLabs-Flag-Categories-Guide) — Flag categories for Trace Labs OSINT Search Party CTF events
+[Trace Labs OSINT Search Party CTF Participation Guide](https://github.com/C3n7ral051nt4g3ncy/TraceLabs-Flag-Categories-Guide) — Flag categories for Trace Labs OSINT Search Party CTF events
 
 ## Cloud
 [CloudFoxable](https://github.com/BishopFox/cloudfoxable) — Create a vulnerable by-design AWS penetration testing playground
@@ -76,9 +76,9 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful in crea
 
 [Awesome-Cyber](https://github.com/landoncrabtree/awesome-cyber) — List of cybersecurity tools for red, blue, and purple team operations.
 
-[Cybersec Content Creators and Free Learning Resources](https://github.com/shenetworks/Free_Tech_Resources) - Curated List of Cybersec Content Creators & Free Learning Resources
+[Cybersec Content Creators and Free Learning Resources](https://github.com/shenetworks/Free_Tech_Resources) — Curated List of Cybersec Content Creators & Free Learning Resources
 
-[Cybersecurity Resources](https://github.com/Nickyie/Cybersecurity-Resources) - Library of various cybersecurity resources
+[Cybersecurity Resources](https://github.com/Nickyie/Cybersecurity-Resources) — Library of various cybersecurity resources
 
 [Defcon Parrot](https://github.com/DefconParrot) - Curated Lists of Tools, DCGs, Dates, etc
 
@@ -135,7 +135,7 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful in crea
 
 [Trace Labs OSINT Search Party CTF](https://github.com/C3n7ral051nt4g3ncy/TraceLabs-Flag-Categories-Guide) — Flag categories for Trace Labs OSINT Search Party CTF events
 
-[WiGLE](https://www.wigle.net/) - Wireless Geographic Logging Engine
+[WiGLE](https://www.wigle.net/) — Wireless Geographic Logging Engine
 
 ## Packet Captures
 [Utilisec Packet Captures](https://github.com/utilsec/Packet_Captures) — Packet captures for playing with Wireshark and other sniffers
