@@ -24,7 +24,7 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful in crea
 [Burp Suite for Pentesters](https://github.com/Ignitetechnologies/BurpSuite-For-Pentester) — Cheat sheet for Bug Bounty Hunters and penetration testers to hunt  vulnerabilities from P4 to P1 solely and completely with "BurpSuite."
 
 ## Car Hacking
-[AutoHack OS](https://autohackos.com/) — Automotive Pentesting Distribution
+[AutoHack OS (Linux) VM](https://bit.ly/autohackos) — [Automotive Pentesting/Car Hacking](https://autohackos.com/); [Github](https://github.com/autohackos)
 
 ## Career 
 [Hacker Hiring Discord](https://github.com/INIT6Source/Hacker_Hiring_Discords) — Curated List of Hacker Discord Servers with Hiring Channels
