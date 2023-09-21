@@ -106,6 +106,8 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful in crea
 [Offensive Bookmarks](https://github.com/kargisimos/offensive-bookmarks) — Collection of bookmarks for penetration testers, bug bounty hunters, malware developers, reverse engineers and anyone interested in infosec topics.
 
 ## ICS/SCADA/OT
+[ControlThings (Linux) VM](https://www.controlthings.io/platform) - [ControlThings ICS/OT/SCADA](https://www.controlthings.io/)
+
 [DEFCON ICS Village YouTube](https://www.youtube.com/channel/UCI_GT2-OMrsqqglv0JijHhw) - DEFCON ICS Village
 
 [Industrial ICS/OT Cybersecurity](https://github.com/utilsec/Industrial_ICS_OT_Cyber_Security_Resources) — List of resources for industrial (ICS/OT) cybersecurity
