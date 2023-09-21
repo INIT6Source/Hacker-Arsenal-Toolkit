@@ -27,12 +27,12 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful in crea
 [AutoHack OS](https://autohackos.com/) — Automotive Pentesting Distribution
 
 ## Career 
-[Hacker Hiring Discord](https://github.com/INIT6Source/Hacker_Hiring_Discords) - Curated List of Hacker Discord Servers with Hiring Channels
+[Hacker Hiring Discord](https://github.com/INIT6Source/Hacker_Hiring_Discords) — Curated List of Hacker Discord Servers with Hiring Channels
 
 ##  CTF
 [Cloud CTF tools](https://github.com/DEAD10C5/ctf-cloud-tools) — Cloud CTF Docker Container
 
-[CTFd — Platform](https://github.com/CTFd/CTFd) — CTFs as you need them; Hosting - [CTFd.io](https://ctfd.io/)
+[CTFd — Platform](https://github.com/CTFd/CTFd) — CTFs as you need them; Hosting — [CTFd.io](https://ctfd.io/)
 
 [CTF Writeups](https://github.com/daffainfo/ctf-writeup) — Writeups of CTFs
 
@@ -44,7 +44,7 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful in crea
 
 [No More Secrets — Tool](https://github.com/bartobri/no-more-secrets) — Command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 
-[Red-Team Village CTF DC31 2023 — Challenge Repo](https://github.com/BC-SECURITY/Red-Team-Village-CTF-2023) - Secure Terminal CTF Challenges for DC31 Red Team Village
+[Red-Team Village CTF DC31 2023 — Challenge Repo](https://github.com/BC-SECURITY/Red-Team-Village-CTF-2023) — Secure Terminal CTF Challenges for DC31 Red Team Village
 
 [Trace Labs OSINT Search Party CTF — Participation Guide](https://github.com/C3n7ral051nt4g3ncy/TraceLabs-Flag-Categories-Guide) — Flag categories for Trace Labs OSINT Search Party CTF events
 
@@ -66,7 +66,7 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful in crea
 [Data Broker Opt-Out List](ami-0dea7760f514d7ce6) — List of opt-out's for data brokers
 
 ## Discord
-[Hacker Discords](https://github.com/INIT6Source/Hacker_Discords) - Curated List of Hacker Discord Servers
+[Hacker Discords](https://github.com/INIT6Source/Hacker_Discords) — Curated List of Hacker Discord Servers
 
 ## Forensics
 [Painless Peek](https://github.com/adacable/painlessPeek) — Browser extension to make it easier to more safely view traumatic imagery.
@@ -76,7 +76,7 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful in crea
 
 [Awesome-Cyber](https://github.com/landoncrabtree/awesome-cyber) — List of cybersecurity tools for red, blue, and purple team operations.
 
-[Cybersec Content Creators and Free Learning Resources](https://github.com/shenetworks/Free_Tech_Resources)
+[Cybersec Content Creators and Free Learning Resources](https://github.com/shenetworks/Free_Tech_Resources) - Curated List of Cybersec Content Creators & Free Learning Resources
 
 [Cybersecurity Resources](https://github.com/Nickyie/Cybersecurity-Resources) - Library of various cybersecurity resources
 
@@ -88,18 +88,18 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful in crea
 
 [Hack with GitHub](https://github.com/Hack-with-Github) — Open Source Hacking Tools database
 
-[Hacker Social Media](https://github.com/jimender2/Hacker_Social_Media)- Hacker Social Media & Cotent Creators
+[Hacker Social Media](https://github.com/jimender2/Hacker_Social_Media) — Hacker Social Media & Cotent Creators
 
 [Mindmap](https://github.com/Ignitetechnologies/Mindmap) — Mindmaps for cyber security technologies, methodologies, courses, and certifications
 
 [Offensive Bookmarks](https://github.com/kargisimos/offensive-bookmarks) — Collection of bookmarks for penetration testers, bug bounty hunters, malware developers, reverse engineers and anyone interested in infosec topics.
 
 ## ICS/SCADA/OT
-[DEFCON ICS Village YouTube](https://www.youtube.com/channel/UCI_GT2-OMrsqqglv0JijHhw) - DEFCON ICS Village
+[DEFCON ICS Village YouTube](https://www.youtube.com/channel/UCI_GT2-OMrsqqglv0JijHhw) — DEFCON ICS Village
 
 [Industrial ICS/OT Cybersecurity](https://github.com/utilsec/Industrial_ICS_OT_Cyber_Security_Resources) — List of resources for industrial (ICS/OT) cybersecurity
 
-[Intro to ICS/OT Cybersecurity](https://github.com/utilsec/ICS_OT_Intro_Course_Resources) - ICS/OT Intro Course Resources
+[Intro to ICS/OT Cybersecurity](https://github.com/utilsec/ICS_OT_Intro_Course_Resources) — ICS/OT Intro Course Resources
 
 [NMAP & SHODAN ICS/OT Quickstart Guides](https://github.com/utilsec/QuickStart-Guides) — Quick start Nmap & SHODAN guides for ICS/OT assets
 
@@ -116,13 +116,13 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful in crea
 
 ## Microsoft Office 365
 
-[ScubaGear](https://github.com/cisagov/ScubaGear) - Automation to assess the state of your M365 tenant against CISA's baselines
+[ScubaGear](https://github.com/cisagov/ScubaGear) — Automation to assess the state of your M365 tenant against CISA's baselines
 
 ## Nessus
 [Nessusploitable](https://github.com/sdcampbell/Nessusploitable) — Parses .nessus files for exploitable vulnerabilities and outputs a report
 
 ## Network Pentesting
-[5head](https://github.com/Renegade-Labs/5head) —  a wrapper of network pentest toolsets within a portable and modular scripting platform that allows repeatable tasks.
+[5head](https://github.com/Renegade-Labs/5head) — a wrapper of network pentest toolsets within a portable and modular scripting platform that allows repeatable tasks.
 
 ## OSINT
 [Alfred](https://github.com/Alfredredbird/alfred) — Find social media accounts based on inputs
@@ -131,7 +131,7 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful in crea
 
 [Discord OSINT](https://github.com/AtonceInventions/DiscordOSINT) — Resources to conduct research and OSINT investigations on Discord accounts
 
-[Geolocation OSINT](https://github.com/cqcore/Geolocation-OSINT) - Geolocation challenge resources
+[Geolocation OSINT](https://github.com/cqcore/Geolocation-OSINT) — Geolocation challenge resources
 
 [Trace Labs OSINT Search Party CTF](https://github.com/C3n7ral051nt4g3ncy/TraceLabs-Flag-Categories-Guide) — Flag categories for Trace Labs OSINT Search Party CTF events
 
@@ -161,13 +161,13 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful in crea
 [AttackGen](https://github.com/mrwadams/attackgen) — Generates tailored incident response scenarios based on user-selected threat actor groups and your organization's details.
 
 ## Search Engines
-[Search Engines for Pentesters](https://github.com/INIT6Source/Search-Engines-for-Pentesters) - Assorted Pentest Search Engines
+[Search Engines for Pentesters](https://github.com/INIT6Source/Search-Engines-for-Pentesters) — Assorted Pentest Search Engines
 
 ## Threat Hunting
 [Cyber Threat Hunting](https://github.com/A3sal0n/CyberThreatHunting) — Collection of resources for Threat Hunters 
 
 ## Wardriving
-[WiGLE](https://www.wigle.net/) - Wireless Geographic Logging Engine
+[WiGLE](https://www.wigle.net/) — Wireless Geographic Logging Engine
 
 ## Wifi — 802.11
 [Kismet](https://github.com/kismetwireless/kismet) — Kismet and related tools and libraries for wireless monitoring, transmitting, and auditing. 
@@ -176,7 +176,7 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful in crea
 
 [Wifi Exploitation Framework (WEF)](https://github.com/D3Ext/WEF) — Offensive framework to audit 802.11 networks and protocols with different types of attacks for WPA/WPA2 and WEP, automated hash cracking, and much more. Tested and supported in Kali Linux, Parrot OS and Arch Linux.
 
-[Wireless Pentesting Cheat Sheet](https://github.com/V0lk3n/WirelessPentesting-CheatSheet) —  Cheat Sheet for OSWP Examination by Offensive Security and Wifi Cracking
+[Wireless Pentesting Cheat Sheet](https://github.com/V0lk3n/WirelessPentesting-CheatSheet) — Cheat Sheet for OSWP Examination by Offensive Security and Wifi Cracking
 
 ## Wireshark
 [Wifishark](https://github.com/rfhs/wifishark) — Red-Team profile for Wireshark
