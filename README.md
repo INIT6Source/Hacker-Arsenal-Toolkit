@@ -24,6 +24,10 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful.
 
 [LLM Prompt Library](https://github.com/abilzerian/LLM-Prompt-Library) — Manipulation Prompts for various LLMs such as GPT-4, Claude, Llama2, Falcon, Bard, etc
 
+## Attack Surface Management
+
+[Sn1per](https://github.com/1N3/Sn1per) -  Attack Surface Management Platform 
+
 ## Biological Security (BioSec/Biohacking)
 [Fingerprint BioSec](https://github.com/ANG13T/fingerprint-biosec) - Fingerprint Pattern Recognition
 
@@ -243,6 +247,8 @@ to preserve accuracy and precision.
 [AttackGen](https://github.com/mrwadams/attackgen) — Generates tailored incident response scenarios based on user-selected threat actor groups and your organization's details.
 
 ## Search Engines
+[Awesome-Hacker-Search-Engines](https://github.com/edoardottt/awesome-hacker-search-engines) - Curated list of search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more 
+
 [Search Engines for Pentesters](https://github.com/INIT6Source/Search-Engines-for-Pentesters) — Assorted Pentest Search Engines
 
 ## Threat Hunting
@@ -253,6 +259,9 @@ to preserve accuracy and precision.
 
 ## Web Crawler
 [Nuke-Net](https://github.com/TotallyNotAHaxxer/Nuke-Net) - VERY VERY over powered and ridiculous web crawler that is very very noisy 
+
+## Web Application Security
+[Awesome-We-Hacking](https://github.com/infoslack/awesome-web-hacking) - List is for anyone wishing to learn about web application security but no starting point.
 
 ## Wifi — 802.11
 [802.11-Lazy](https://github.com/TotallyNotAHaxxer/802.11-Lazy) -  802.11 auditing in GUI format using aircrack-ng 
