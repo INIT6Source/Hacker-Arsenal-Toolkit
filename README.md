@@ -60,7 +60,7 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful.
 
 [HorQRux Tool](https://github.com/jzck/horqrux) — Splitting a QR code into seven fragments
 
-[NoiseFest Challenge Repo](NoiseFest-CTF-2023) — PCAPs and prompts from GreyNoise's 2023 CTF at NoiseFest
+[NoiseFest Challenge Repo](https://github.com/GreyNoise-Intelligence/NoiseFest-CTF-2023)) — PCAPs and prompts from GreyNoise's 2023 CTF at NoiseFest
 
 [No More Secrets Tool](https://github.com/bartobri/no-more-secrets) — Command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 
@@ -74,12 +74,12 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful.
 [Cloud CTF tools](https://github.com/DEAD10C5/ctf-cloud-tools) — Cloud CTF Docker Container
 
 ## Conferences 
-[Infosec Events](https://github.com/xsa/infosec-events](https://github.com/xsa/infosec-events/blob/main/2023.md)) — List of cyber-infosec-hacker related events. 
+[Infosec Events](https://github.com/xsa/infosec-events) — List of cyber-infosec-hacker related events. 
 
 ## Content Generation
 [AttackGen](https://github.com/mrwadams/attackgen) — Generates tailored incident response scenarios based on user-selected threat actor groups and your organization's details.
 
-[Awesome README](https://github.com/TotallyNotAHaxxer/awesome-readme) - Curated list of awesome READMEs 
+[Awesome README](https://github.com/matiassingers/awesome-readme) - Curated list of awesome READMEs 
 
 ## Cryptography
 [CyberChef](https://github.com/gchq/CyberChef) - App for encoding XOR and Base64, AES, DES and Blowfish, creating binary and hexdumps, compression and decompression of data, calculating hashes and checksums, IPv6 and X.509 parsing, changing character encodings, etc
@@ -88,7 +88,7 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful.
 [Data-OSINT](https://github.com/cqcore/Data-OSINT) — List of data breach acquisition websites
 
 ## Data Privacy
-[Data Broker Opt-Out List](ami-0dea7760f514d7ce6) — List of opt-out's for data brokers
+[Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) — List of opt-out's for data brokers
 
 ## Distros
 [AthenaOS (Arch) Docker](https://hub.docker.com/u/athenaos) - [AthenaOS Pentesting](https://github.com/Athena-OS/athena-iso)
@@ -125,7 +125,7 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful.
 [dfdatetime](https://github.com/log2timeline/dfdatetime) - Provides date and time objects
 to preserve accuracy and precision.
 
-[DroneXtract](https://github.com/TotallyNotAHaxxer/DroneXtract) - DroneXtract is a digital forensics suite for DJI drones
+[DroneXtract](https://github.com/ANG13T/DroneXtract) - DroneXtract is a digital forensics suite for DJI drones
 
 [Hindsight](https://github.com/obsidianforensics/hindsight) -  Web browser forensics for Google Chrome/Chromium 
 
@@ -163,7 +163,7 @@ to preserve accuracy and precision.
 [Offensive Bookmarks](https://github.com/kargisimos/offensive-bookmarks) — Collection of bookmarks for penetration testers, bug bounty hunters, malware developers, reverse engineers and anyone interested in infosec topics.
 
 ## Github
-[Awesome README](https://github.com/TotallyNotAHaxxer/awesome-readme) -  Curated list of awesome READMEs 
+[Awesome README](https://github.com/matiassingers/awesome-readme) -  Curated list of awesome READMEs 
 
 ## Google Dork
 [Grippy](https://github.com/TotallyNotAHaxxer/Grippy) -  Open-source engine for automating the download of file 
@@ -176,8 +176,6 @@ to preserve accuracy and precision.
 [ControlThings (Linux) VM](https://www.controlthings.io/platform) - [ControlThings ICS/OT/SCADA](https://www.controlthings.io/)
 
 [DEFCON ICS Village YouTube](https://www.youtube.com/channel/UCI_GT2-OMrsqqglv0JijHhw) - DEFCON ICS Village
-
-[DEFCON ICS Village YouTube](https://www.youtube.com/channel/UCI_GT2-OMrsqqglv0JijHhw) — DEFCON ICS Village
 
 [Industrial ICS/OT Cybersecurity](https://github.com/utilsec/Industrial_ICS_OT_Cyber_Security_Resources) — List of resources for industrial (ICS/OT) cybersecurity
 
