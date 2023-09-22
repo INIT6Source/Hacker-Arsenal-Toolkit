@@ -8,7 +8,14 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful.
 [Vulnerable-AD](https://github.com/safebuffer/vulnerable-AD) — Create a vulnerable AD that allows you to test most AD attacks 
 
 ## Adversarial Operations
-[Periscope](https://github.com/malcomvetter/Periscope) — Adversarial Operations Toolkit (C2, stagers, agents, ephemeral infrastructure, phishing engine, and automation
+[Periscope](https://github.com/malcomvetter/Periscope) — Adversarial Operations Toolkit including C2, stagers, agents, ephemeral infrastructure, phishing engine, and automation
+
+## Aerospace
+[Aerospace Hacking Tools](https://github.com/ANG13T/aerospace-hacking-tools) - Space-related cybersecurity tools
+
+[SatIntel](https://github.com/ANG13T/SatIntel) - OSINT tool for Satellites; Extract telemetry, receive orbital predictions, and parse TLEs 
+
+[Satellite Hacking Workshop](https://github.com/ANG13T/satellite-hacking-workshop) -  Files for Aerospace Cybersecurity: Satellite Hacking Workshop 
 
 ## Ai
 [Ai Prompt Examples](https://github.com/brock-infosec/Ai-Prompt-Examples) — Examples of Ai Prompts
@@ -17,10 +24,15 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful.
 
 [LLM Prompt Library](https://github.com/abilzerian/LLM-Prompt-Library) — Manipulation Prompts for various LLMs such as GPT-4, Claude, Llama2, Falcon, Bard, etc
 
+## Biological Security (BioSec/Biohacking)
+[Fingerprint BioSec](https://github.com/ANG13T/fingerprint-biosec) - Fingerprint Pattern Recognition
+
 ## Binary Exploitation 
 [Modern Binary Exploitation](https://github.com/RPISEC/MBE) — x86 reverse engineering, vulnerability analysis, and Linux-based userland binary exploitation, protections (Canaries, DEP, ASLR, RELRO, Fortify Source, etc.) and techniques used to defeat them, kernel-land and Windows-based exploitation.
 
 ## Burp Suite
+[Blackbox Protobuf](https://github.com/nccgroup/blackboxprotobuf) - Extension for decoding and modifying arbitrary protobuf messages without the protobuf type definition. 
+
 [Burp Suite for Pentesters](https://github.com/Ignitetechnologies/BurpSuite-For-Pentester) — Cheat sheet for Bug Bounty Hunters and penetration testers to hunt  vulnerabilities from P4 to P1 solely and completely with "BurpSuite."
 
 ## Car Hacking
@@ -29,7 +41,11 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful.
 ## Career 
 [Hacker Hiring Discord](https://github.com/INIT6Source/Hacker_Hiring_Discords) — Curated List of Hacker Discord Servers with Hiring Channels
 
-##  CTF
+## Charitable
+
+[DealsForMeals](https://github.com/ANG13T/DealsForMeals_App) - Help low-income families with finding the best deals; eliminates sorting through dozens of websites of individual food banks, and shortens the distance from accessible food
+
+## CTF
 [Cloud CTF Tools](https://github.com/DEAD10C5/ctf-cloud-tools) — Cloud CTF Docker Container
 
 [CTFd Platform](https://github.com/CTFd/CTFd) — CTFs as you need them; Hosting — [CTFd.io](https://ctfd.io/)
@@ -58,6 +74,11 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful.
 
 ## Content Generation
 [AttackGen](https://github.com/mrwadams/attackgen) — Generates tailored incident response scenarios based on user-selected threat actor groups and your organization's details.
+
+[Awesome README](https://github.com/TotallyNotAHaxxer/awesome-readme) - Curated list of awesome READMEs 
+
+## Cryptography
+[CyberChef](https://github.com/gchq/CyberChef) - App for encoding XOR and Base64, AES, DES and Blowfish, creating binary and hexdumps, compression and decompression of data, calculating hashes and checksums, IPv6 and X.509 parsing, changing character encodings, etc
 
 ## Data Breaches
 [Data-OSINT](https://github.com/cqcore/Data-OSINT) — List of data breach acquisition websites
@@ -89,8 +110,28 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful.
 ## Discord
 [Hacker Discords](https://github.com/INIT6Source/Hacker_Discords) — Curated List of Hacker Discord Servers
 
+## Drones
+[Drone Hacking Workshop](https://github.com/ANG13T/drone-hacking-workshop) - Files and Programs for UAV and Drone Cybersecurity Workshop 
+
+[DroneXtract](https://github.com/ANG13T/DroneXtract) - DroneXtract is a digital forensics suite for DJI drones
+
 ## Forensics
+[Artifacts](https://github.com/ForensicArtifacts/artifacts) -  Digital Forensics Artifact Repository 
+
+[dfdatetime](https://github.com/log2timeline/dfdatetime) - Provides date and time objects
+to preserve accuracy and precision.
+
+[DroneXtract](https://github.com/TotallyNotAHaxxer/DroneXtract) - DroneXtract is a digital forensics suite for DJI drones
+
+[Hindsight](https://github.com/obsidianforensics/hindsight) -  Web browser forensics for Google Chrome/Chromium 
+
+[Libyal](https://github.com/libyal/libyal/wiki/Overview) - ollection of libraries to access various data formats, such as the OLE Compound File or NT File System
+
 [Painless Peek](https://github.com/adacable/painlessPeek) — Browser extension to make it easier to more safely view traumatic imagery.
+
+[Synoposis](https://github.com/ExabeamLabs/Synopsis) -  Tool to  review browser history files by providing a high-level “synopsis” of key information. 
+
+[Unfurl](https://github.com/obsidianforensics/unfurl) -  Extract and Visualize Data from URLs
 
 ## General Cybersecurity / Infosec / Ethical Hacking / Penetration Testing
 [90-Day Cybersecurity Study Plan](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) — Resources for learning topics such as Net+, Sec+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking
@@ -111,9 +152,20 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful.
 
 [Hacker Social Media](https://github.com/jimender2/Hacker_Social_Media) — Hacker Social Media & Cotent Creators
 
+[Knowledge Book Cyber Weapons Dump](https://github.com/TotallyNotAHaxxer/knowlege-book-cyber-weapons-dump) - Collection of Scripts
+
 [Mindmap](https://github.com/Ignitetechnologies/Mindmap) — Mindmaps for cyber security technologies, methodologies, courses, and certifications
 
 [Offensive Bookmarks](https://github.com/kargisimos/offensive-bookmarks) — Collection of bookmarks for penetration testers, bug bounty hunters, malware developers, reverse engineers and anyone interested in infosec topics.
+
+## Github
+[Awesome README](https://github.com/TotallyNotAHaxxer/awesome-readme) -  Curated list of awesome READMEs 
+
+## Google Dork
+[Grippy](https://github.com/TotallyNotAHaxxer/Grippy) -  Open-source engine for automating the download of file 
+
+## Historical
+[DoS-Army](https://github.com/TotallyNotAHaxxer/DoS-Armory) - Collection of scripts from the early 00's used by anon, fancy bear, and LuLzec 
 
 ## ICS/SCADA/OT
 
@@ -131,7 +183,7 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful.
 
 [SHODAN ICS/OT Quickstart Guide](https://github.com/utilsec/OSINT) — Quick start SHODAN guides for ICS/OT assets
 
-##  Malware
+## Malware
 [RPISEC Malware Analysis Materials](https://github.com/RPISEC/Malware) — Malware analysis through readings and hands-on, real-world samples
 
 ## Metasploit
@@ -141,8 +193,10 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful.
 [Rapid7 Metasploitable3](https://github.com/rapid7/metasploitable3) — VM that is built from the ground up with a large amount of security vulnerabilities.
 
 ## Microsoft Office 365
-
 [ScubaGear](https://github.com/cisagov/ScubaGear) — Automation to assess the state of your M365 tenant against CISA's baselines
+
+## Misinformation
+[Fake New Detection](https://github.com/ANG13T/fake_news_detection) -  Evaluate sources for misinfo using ML models 
 
 ## Nessus
 [Nessusploitable](https://github.com/sdcampbell/Nessusploitable) — Parses .nessus files for exploitable vulnerabilities and outputs a report
@@ -158,6 +212,8 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful.
 [Discord OSINT](https://github.com/AtonceInventions/DiscordOSINT) — Resources to conduct research and OSINT investigations on Discord accounts
 
 [Geolocation OSINT](https://github.com/cqcore/Geolocation-OSINT) — Geolocation challenge resources
+
+[SatIntel](https://github.com/ANG13T/SatIntel) - OSINT tool for Satellites; Extract telemetry, receive orbital predictions, and parse TLEs 
 
 [Trace Labs OSINT Search Party CTF](https://github.com/C3n7ral051nt4g3ncy/TraceLabs-Flag-Categories-Guide) — Flag categories for Trace Labs OSINT Search Party CTF events
 
@@ -195,7 +251,12 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful.
 ## Wardriving
 [WiGLE](https://www.wigle.net/) — Wireless Geographic Logging Engine
 
+## Web Crawler
+[Nuke-Net](https://github.com/TotallyNotAHaxxer/Nuke-Net) - VERY VERY over powered and ridiculous web crawler that is very very noisy 
+
 ## Wifi — 802.11
+[802.11-Lazy](https://github.com/TotallyNotAHaxxer/802.11-Lazy) -  802.11 auditing in GUI format using aircrack-ng 
+
 [Kismet](https://github.com/kismetwireless/kismet) — Kismet and related tools and libraries for wireless monitoring, transmitting, and auditing. 
 
 [Wifishark](https://github.com/rfhs/wifishark) — Red-Team profile for Wireshark
