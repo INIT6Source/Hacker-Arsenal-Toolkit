@@ -60,7 +60,7 @@ List of Hacker/Infosec/CyberSec tools and resources that could be useful.
 
 [HorQRux Tool](https://github.com/jzck/horqrux) — Splitting a QR code into seven fragments
 
-[NoiseFest Challenge Repo](https://github.com/GreyNoise-Intelligence/NoiseFest-CTF-2023)) — PCAPs and prompts from GreyNoise's 2023 CTF at NoiseFest
+[NoiseFest Challenge Repo](https://github.com/GreyNoise-Intelligence/NoiseFest-CTF-2023) — PCAPs and prompts from GreyNoise's 2023 CTF at NoiseFest
 
 [No More Secrets Tool](https://github.com/bartobri/no-more-secrets) — Command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 
@@ -252,14 +252,11 @@ to preserve accuracy and precision.
 ## Threat Hunting
 [Cyber Threat Hunting](https://github.com/A3sal0n/CyberThreatHunting) — Collection of resources for Threat Hunters 
 
-## Wardriving
-[WiGLE](https://www.wigle.net/) — Wireless Geographic Logging Engine
-
 ## Web Crawler
 [Nuke-Net](https://github.com/TotallyNotAHaxxer/Nuke-Net) - VERY VERY over powered and ridiculous web crawler that is very very noisy 
 
 ## Web Application Security
-[Awesome-We-Hacking](https://github.com/infoslack/awesome-web-hacking) - List is for anyone wishing to learn about web application security but no starting point.
+[Awesome-Web-Hacking](https://github.com/infoslack/awesome-web-hacking) - List is for anyone wishing to learn about web application security but no starting point.
 
 ## Wifi — 802.11
 [802.11-Lazy](https://github.com/TotallyNotAHaxxer/802.11-Lazy) -  802.11 auditing in GUI format using aircrack-ng 
@@ -269,6 +266,8 @@ to preserve accuracy and precision.
 [Wifishark](https://github.com/rfhs/wifishark) — Red-Team profile for Wireshark
 
 [Wifi Exploitation Framework (WEF)](https://github.com/D3Ext/WEF) — Offensive framework to audit 802.11 networks and protocols with different types of attacks for WPA/WPA2 and WEP, automated hash cracking, and much more. Tested and supported in Kali Linux, Parrot OS and Arch Linux.
+
+[WiGLE](https://www.wigle.net/) — Wireless Geographic Logging Engine
 
 [Wireless Pentesting Cheat Sheet](https://github.com/V0lk3n/WirelessPentesting-CheatSheet) — Cheat Sheet for OSWP Examination by Offensive Security and Wifi Cracking
 
