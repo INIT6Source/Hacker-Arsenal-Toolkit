@@ -1,6 +1,6 @@
-# Hacker Tools and Resources
+# Hacker Arsenal Tookit (HaRT)
 
-List of Hacker/Infosec/CyberSec tools and resources that could be useful.
+Welcome to the Hacker Arsenal Tookit (HaRT)! This repo aims to provide a comprehensive collection of tools and resources for cyber/information security professionals and hacking enthusiasts!
 
 ## Active Directory
 [Linikatz](https://github.com/CiscoCXSecurity/linikatz) — [Mimikatz et al on UNIX](https://labs.portcullis.co.uk/download/eu-18-Wadhwa-Brown-Where-2-worlds-collide-Bringing-Mimikatz-et-al-to-UNIX.pdf)
