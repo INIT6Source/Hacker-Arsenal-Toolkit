@@ -3,7 +3,11 @@
 Welcome to the Hacker Arsenal Tookit (HaRT)! This repo aims to provide a comprehensive collection of tools and resources for cyber/information security professionals and hacking enthusiasts!
 
 ## Active Directory
+[CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - Enumerating logged on users, spidering SMB shares, executing psexec style attacks, auto-injecting Mimikatz/Shellcode/DLL’s into memory using Powershell, dumping the NTDS.dit, etc
+
 [Linikatz](https://github.com/CiscoCXSecurity/linikatz) — [Mimikatz et al on UNIX](https://labs.portcullis.co.uk/download/eu-18-Wadhwa-Brown-Where-2-worlds-collide-Bringing-Mimikatz-et-al-to-UNIX.pdf)
+
+[NetExec](https://github.com/Pennyw0rth/NetExec) - Post-exploitation tool that helps automate assessing the security of large Active Directory networks.
 
 [Vulnerable-AD](https://github.com/safebuffer/vulnerable-AD) — Create a vulnerable AD that allows you to test most AD attacks 
 
@@ -12,6 +16,8 @@ Welcome to the Hacker Arsenal Tookit (HaRT)! This repo aims to provide a compreh
 
 ## Aerospace
 [Aerospace Hacking Tools](https://github.com/ANG13T/aerospace-hacking-tools) - Space-related cybersecurity tools
+
+[SatDump](https://github.com/SatDump/SatDump) -  A generic satellite data processing software. 
 
 [SatIntel](https://github.com/ANG13T/SatIntel) - OSINT tool for Satellites; Extract telemetry, receive orbital predictions, and parse TLEs 
 
@@ -215,11 +221,18 @@ to preserve accuracy and precision.
 
 [Geolocation OSINT](https://github.com/cqcore/Geolocation-OSINT) — Geolocation challenge resources
 
+[Maigret](https://github.com/soxoj/maigret) - Collect a dossier on a person by username from thousands of sites 
+
+[Mailcat](https://github.com/sharsil/mailcat) - Find email addresses by nickname using API/SMTP checking methods without user notification
+
 [SatIntel](https://github.com/ANG13T/SatIntel) - OSINT tool for Satellites; Extract telemetry, receive orbital predictions, and parse TLEs 
 
 [Trace Labs OSINT Search Party CTF](https://github.com/C3n7ral051nt4g3ncy/TraceLabs-Flag-Categories-Guide) — Flag categories for Trace Labs OSINT Search Party CTF events
 
+[WhatsMyName](https://github.com/webbreacher/whatsmyname) -  Username enumeration on various websites. 
+
 [WiGLE](https://www.wigle.net/) — Wireless Geographic Logging Engine
+
 
 ## Packet Captures
 [Utilisec Packet Captures](https://github.com/utilsec/Packet_Captures) — Packet captures for playing with Wireshark and other sniffers
@@ -228,6 +241,9 @@ to preserve accuracy and precision.
 [OpenSquat](https://github.com/atenreiro/opensquat) — Detect phishing domains and domain squatting; Searches for newly registered domains that impersonate legitimate domains on a daily basis.
 
 [Phishing Pot](https://github.com/rf-peixoto/phishing_pot) — Collection of phishing samples for researchers and detection developers.
+
+## Print Nightmare
+[It Was All A Dream](https://github.com/byt3bl33d3r/ItWasAllADream) - (CVE-2021-34527) Python Scanner; Scan entire subnets for hosts vulnerable to the PrintNightmare RCE 
 
 ## Privilege Escalation
 [Privilage Escalation from 1 to 0 Workshop](https://www.slideshare.net/HossamMHamed/privilege-escalation-from-1-to-0-workshop) — HACKTRICK'18 Privilege escalation Workshop
@@ -248,6 +264,9 @@ to preserve accuracy and precision.
 [Awesome-Hacker-Search-Engines](https://github.com/edoardottt/awesome-hacker-search-engines) - Curated list of search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more 
 
 [Search Engines for Pentesters](https://github.com/INIT6Source/Search-Engines-for-Pentesters) — Assorted Pentest Search Engines
+
+## SMB
+[SMBmap](https://github.com/ShawnDEvans/smbmap) - SMB Enumeration Tool
 
 ## Threat Hunting
 [Cyber Threat Hunting](https://github.com/A3sal0n/CyberThreatHunting) — Collection of resources for Threat Hunters 
