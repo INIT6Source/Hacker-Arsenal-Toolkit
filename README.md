@@ -87,6 +87,9 @@ Welcome to the Hacker Arsenal Tookit (HaRT)! This repo aims to provide a compreh
 
 [Awesome README](https://github.com/matiassingers/awesome-readme) - Curated list of awesome READMEs 
 
+## Contracting
+[Contracts](https://github.com/cure53/Contracts) - Collection of potentially useful pentest contract templates 
+
 ## Cryptography
 [CyberChef](https://github.com/gchq/CyberChef) - App for encoding XOR and Base64, AES, DES and Blowfish, creating binary and hexdumps, compression and decompression of data, calculating hashes and checksums, IPv6 and X.509 parsing, changing character encodings, etc
 
@@ -168,8 +171,12 @@ to preserve accuracy and precision.
 
 [Offensive Bookmarks](https://github.com/kargisimos/offensive-bookmarks) — Collection of bookmarks for penetration testers, bug bounty hunters, malware developers, reverse engineers and anyone interested in infosec topics.
 
+[Public Pentesting Reports](https://github.com/juliocesarfort/public-pentesting-reports) -  List of public penetration test reports published by several consulting firms and academic security groups. 
+
 ## Github
 [Awesome README](https://github.com/matiassingers/awesome-readme) -  Curated list of awesome READMEs 
+
+[RepoHunt](https://github.com/ARPSyndicate/RepoHunt) - Hunt github repositories by keywords 
 
 ## Google Dork
 [Grippy](https://github.com/TotallyNotAHaxxer/Grippy) -  Open-source engine for automating the download of file 
@@ -192,7 +199,13 @@ to preserve accuracy and precision.
 [SHODAN ICS/OT Quickstart Guide](https://github.com/utilsec/OSINT) — Quick start SHODAN guides for ICS/OT assets
 
 ## Malware
+[Malware Source Code](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages. 
+
 [RPISEC Malware Analysis Materials](https://github.com/RPISEC/Malware) — Malware analysis through readings and hands-on, real-world samples
+
+[VX-API](https://github.com/vxunderground/VX-API) - Collection of various malicious functionality to aid in malware development 
+
+[VXUG-Papers](https://github.com/vxunderground/VXUG-Papers) - Research code & papers from members of vx-underground. 
 
 ## Metasploit
 [Metateta](https://github.com/safebuffer/metateta) — Automated Tool For Scanning And Exploiting Network Protocols Using Metasploit
@@ -206,6 +219,11 @@ to preserve accuracy and precision.
 ## Misinformation
 [Fake New Detection](https://github.com/ANG13T/fake_news_detection) -  Evaluate sources for misinfo using ML models 
 
+## Mobile Security
+[Android PIN Bruteforce](https://github.com/urbanadventurer/Android-PIN-Bruteforce) - Unlock an Android phone (or device) by bruteforcing the lockscreen PIN.
+
+[Awesome Mobile Security](https://github.com/vaib25vicky/awesome-mobile-security) - Collection of useful android and iOS security related stuff
+
 ## Nessus
 [Nessusploitable](https://github.com/sdcampbell/Nessusploitable) — Parses .nessus files for exploitable vulnerabilities and outputs a report
 
@@ -217,6 +235,8 @@ to preserve accuracy and precision.
 
 [Awesome Intelligence](https://github.com/ARPSyndicate/awesome-intelligence) — Curated list of Open-Source Intelligence (OSINT) Resources
 
+[Counter OSINT Guide](https://github.com/soxoj/counter-osint-guide-en) -  Comprehensive Counter OSINT and privacy guide for Runet and CIS
+
 [Discord OSINT](https://github.com/AtonceInventions/DiscordOSINT) — Resources to conduct research and OSINT investigations on Discord accounts
 
 [Geolocation OSINT](https://github.com/cqcore/Geolocation-OSINT) — Geolocation challenge resources
@@ -225,7 +245,19 @@ to preserve accuracy and precision.
 
 [Mailcat](https://github.com/sharsil/mailcat) - Find email addresses by nickname using API/SMTP checking methods without user notification
 
+[Marple](https://github.com/soxoj/marple) - Collect links to profiles by username through search engines and analyze with various plugins 
+
+[Obsidian OSINT Templates](https://github.com/WebBreacher/obsidian-osint-templates) - Templates are suggestions of how the Obsidian notetaking tool can be used during an OSINT investigatio
+
+[OSINT](https://github.com/sinwindie/OSINT) - Collections of tools and methods created to aid in OSINT collection
+
+[OSINT Namecheckers List](https://github.com/soxoj/osint-namecheckers-list) -  List of tools to search accounts by username 
+
+[OSINT Tools](https://github.com/HowToFind-bot/osint-tools) - OSINT open-source tools catalog 
+
 [SatIntel](https://github.com/ANG13T/SatIntel) - OSINT tool for Satellites; Extract telemetry, receive orbital predictions, and parse TLEs 
+
+[TheScrapper](https://github.com/champmq/TheScrapper) - Scrape emails, phone numbers and social media accounts from a website. 
 
 [Trace Labs OSINT Search Party CTF](https://github.com/C3n7ral051nt4g3ncy/TraceLabs-Flag-Categories-Guide) — Flag categories for Trace Labs OSINT Search Party CTF events
 
@@ -233,9 +265,13 @@ to preserve accuracy and precision.
 
 [WiGLE](https://www.wigle.net/) — Wireless Geographic Logging Engine
 
+[YaSeeker](https://github.com/HowToFind-bot/YaSeeker) -  Yandex OSINT tool 
 
 ## Packet Captures
 [Utilisec Packet Captures](https://github.com/utilsec/Packet_Captures) — Packet captures for playing with Wireshark and other sniffers
+
+## Password Cracking
+[Panalyzer](https://github.com/ShawnDEvans/panalyzer) - Password list character frequency analyzer that can output hashcat masks 
 
 ## Phishing
 [OpenSquat](https://github.com/atenreiro/opensquat) — Detect phishing domains and domain squatting; Searches for newly registered domains that impersonate legitimate domains on a daily basis.
@@ -268,14 +304,33 @@ to preserve accuracy and precision.
 ## SMB
 [SMBmap](https://github.com/ShawnDEvans/smbmap) - SMB Enumeration Tool
 
+
 ## Threat Hunting
 [Cyber Threat Hunting](https://github.com/A3sal0n/CyberThreatHunting) — Collection of resources for Threat Hunters 
 
+## Threat Intelligence
+[Threat Intelligence Discord Bot](https://github.com/vxunderground/ThreatIntelligenceDiscordBot) - Gets updates from various clearnet domains and ransomware threat actor domains 
+
+## Usernames
+[Username Anarchy](https://github.com/urbanadventurer/username-anarchy) - Tool for generating usernames during a pentest
+
 ## Web Crawler
+[bing-ip2host](https://github.com/urbanadventurer/bing-ip2hosts) - Bing.com web scraper that discovers websites by IP address 
+
 [Nuke-Net](https://github.com/TotallyNotAHaxxer/Nuke-Net) - VERY VERY over powered and ridiculous web crawler that is very very noisy 
+
+[Puncia](https://github.com/ARPSyndicate/puncia) - Subdomain & Exploit Hunter powered by AI 
+
+[WhatWeb](https://github.com/urbanadventurer/WhatWeb) - Identifies websites. Recognises content management systems (CMS), blogging platforms, statistic/analytics packages, JavaScript libraries, web servers, and embedded devices.
 
 ## Web Application Security
 [Awesome-Web-Hacking](https://github.com/infoslack/awesome-web-hacking) - List is for anyone wishing to learn about web application security but no starting point.
+
+[H5SC](https://github.com/cure53/H5SC) - Collection of HTML5 related XSS attack vectors 
+
+[HTTPLeaks](https://github.com/cure53/HTTPLeaks) - Enumerate all possible ways, a website can leak HTTP requests. In one single HTML file.
+
+[URLCrazy](https://github.com/urbanadventurer/urlcrazy) - Generate and test domain typos and variations to detect and perform typo squatting, URL hijacking, phishing, and corporate espionage. 
 
 ## Wifi — 802.11
 [802.11-Lazy](https://github.com/TotallyNotAHaxxer/802.11-Lazy) -  802.11 auditing in GUI format using aircrack-ng 
