@@ -12,6 +12,8 @@ Welcome to the Hacker Arsenal Tookit (HaRT)! This repo aims to provide a compreh
 [Vulnerable-AD](https://github.com/safebuffer/vulnerable-AD) — Create a vulnerable AD that allows you to test most AD attacks 
 
 ## Adversarial Operations
+[Awesome Command Control](https://github.com/tcostam/awesome-command-control) -  Collection of Command & Control (C2) frameworks, tools and resources for post-exploitation and red teaming assignments. 
+
 [Periscope](https://github.com/malcomvetter/Periscope) — Adversarial Operations Toolkit including C2, stagers, agents, ephemeral infrastructure, phishing engine, and automation
 
 ## Aerospace
@@ -39,6 +41,9 @@ Welcome to the Hacker Arsenal Tookit (HaRT)! This repo aims to provide a compreh
 
 ## Binary Exploitation 
 [Modern Binary Exploitation](https://github.com/RPISEC/MBE) — x86 reverse engineering, vulnerability analysis, and Linux-based userland binary exploitation, protections (Canaries, DEP, ASLR, RELRO, Fortify Source, etc.) and techniques used to defeat them, kernel-land and Windows-based exploitation.
+
+## Bitlocker
+[ExtractBitlockerKeys](https://github.com/p0dalirius/ExtractBitlockerKeys) - Script to automatically extract the bitlocker recovery keys from a domain. 
 
 ## Burp Suite
 [Blackbox Protobuf](https://github.com/nccgroup/blackboxprotobuf) - Extension for decoding and modifying arbitrary protobuf messages without the protobuf type definition. 
@@ -151,6 +156,8 @@ to preserve accuracy and precision.
 
 [Awesome-Cyber](https://github.com/landoncrabtree/awesome-cyber) — List of cybersecurity tools for red, blue, and purple team operations.
 
+[CatSalad Social Media List](https://github.com/devsalad/catsalad/blob/main/cslists.20230924.csv) - List of Cyber/Infosec/Hacker social media to follow
+
 [Cybersec Content Creators and Free Learning Resources](https://github.com/shenetworks/Free_Tech_Resources) — Curated List of Cybersec Content Creators & Free Learning Resources
 
 [Cybersecurity Resources](https://github.com/Nickyie/Cybersecurity-Resources) — Library of various cybersecurity resources
@@ -199,6 +206,8 @@ to preserve accuracy and precision.
 [SHODAN ICS/OT Quickstart Guide](https://github.com/utilsec/OSINT) — Quick start SHODAN guides for ICS/OT assets
 
 ## Malware
+[ELFEN](https://github.com/nikhilh-20/ELFEN) - Automated Linux Malware Analysis Sandbox 
+
 [Malware Source Code](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages. 
 
 [RPISEC Malware Analysis Materials](https://github.com/RPISEC/Malware) — Malware analysis through readings and hands-on, real-world samples
@@ -228,7 +237,7 @@ to preserve accuracy and precision.
 [Nessusploitable](https://github.com/sdcampbell/Nessusploitable) — Parses .nessus files for exploitable vulnerabilities and outputs a report
 
 ## Network Pentesting
-[5head](https://github.com/Renegade-Labs/5head) — a wrapper of network pentest toolsets within a portable and modular scripting platform that allows repeatable tasks.
+[5head](https://github.com/Renegade-Labs/5head) — A wrapper of network pentest toolsets within a portable and modular scripting platform that allows repeatable tasks.
 
 ## OSINT
 [Alfred](https://github.com/Alfredredbird/alfred) — Find social media accounts based on inputs
@@ -250,6 +259,8 @@ to preserve accuracy and precision.
 [Obsidian OSINT Templates](https://github.com/WebBreacher/obsidian-osint-templates) - Templates are suggestions of how the Obsidian notetaking tool can be used during an OSINT investigatio
 
 [OSINT](https://github.com/sinwindie/OSINT) - Collections of tools and methods created to aid in OSINT collection
+
+[OSINT Summit 2023 Resources](https://github.com/ranlo/osintsummit-2023-resources) -  List of resources presented during the 2023 Sans OSINTSummit 
 
 [OSINT Namecheckers List](https://github.com/soxoj/osint-namecheckers-list) -  List of tools to search accounts by username 
 
