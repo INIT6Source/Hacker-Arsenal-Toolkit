@@ -32,7 +32,7 @@
 - [Discord](#discord) 🎮
 - [Drones](#drones) 🚁
 - [Forensics](#forensics) 🔍
-- [General Cybersecurity / Infosec / Ethical Hacking / Penetration Testing](#general-cybersecurity-infosec-ethical-hacking-penetration-testing) 🛡️
+- [General Cybersecurity / Infosec / Ethical Hacking / Penetration Testing](#general-cybersecurity--infosec--ethical-hacking--penetration-testing) 🛡️
 - [GitHub](#github) 🐙
 - [Google Dork](#google-dork) 🔍
 - [Historical](#historical) 📜
