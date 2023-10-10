@@ -1,5 +1,78 @@
 # Hacker Arsenal Tookit (HaRT)
 
+![hart](https://github.com/INIT6Source/Hacker-Arsenal-Toolkit/assets/30528167/30ea76e9-f70b-44e3-98cf-2d4fde3a742f)
+
+<a name="top"></a>
+
+<details open>
+<summary>Table of Contents</summary>
+
+- [Introduction](#introduction) 🌟
+- [Active Directory](#active-directory) 🔒
+- [Adversarial Operations](#adversarial-operations) 🛡️
+- [Aerospace](#aerospace) ✈️
+- [AI](#ai) 🤖
+- [Attack Surface Management](#attack-surface-management) 📡
+- [Biological Security (BioSec/Biohacking)](#biological-security-biosec-biohacking) 🧬
+- [Binary Exploitation](#binary-exploitation) 💾
+- [Bitlocker](#bitlocker) 🔐
+- [Burp Suite](#burp-suite) 🕷️
+- [Car Hacking](#car-hacking) 🚗
+- [Career](#career) 🌐
+- [Charitable](#charitable) 🎁
+- [CTF](#ctf) 🚩
+- [Cloud](#cloud) ☁️
+- [Conferences](#conferences) 🎙️
+- [Content Generation](#content-generation) 📝
+- [Contracting](#contracting) 💼
+- [Cryptography](#cryptography) 🔒🔍
+- [Data Breaches](#data-breaches) 📊
+- [Data Privacy](#data-privacy) 🕵️
+- [Distros](#distros) 🐧
+- [Discord](#discord) 🎮
+- [Drones](#drones) 🚁
+- [Forensics](#forensics) 🔍
+- [General Cybersecurity / Infosec / Ethical Hacking / Penetration Testing](#general-cybersecurity--infosec--ethical-hacking--penetration-testing) 🛡️
+- [GitHub](#github) 🐙
+- [Google Dork](#google-dork) 🔍
+- [Historical](#historical) 📜
+- [ICS/SCADA/OT](#icsscadaot) 🏭
+- [Malware](#malware) 🦠
+- [Metasploit](#metasploit) 💣
+- [Metasploitable3](#metasploitable3) 💣
+- [Microsoft Office 365](#microsoft-office-365) 📆
+- [Misinformation](#misinformation) 📰
+- [Mobile Security](#mobile-security) 📱
+- [Nessus](#nessus) 🕷️
+- [Network Pentesting](#network-pentesting) 🌐
+- [OSINT](#osint) 🔎
+- [Packet Captures](#packet-captures) 📦
+- [Password Cracking](#password-cracking) 🔐
+- [Phishing](#phishing) 🎣
+- [Print Nightmare](#print-nightmare) 🖨️
+- [Privilege Escalation](#privilege-escalation) ⬆️
+- [Purple Team](#purple-team) 💜
+- [Ransomware](#ransomware) 💸
+- [RSA](#rsa) 🔐
+- [Scenarios & Tabletop Exercises](#scenarios--tabletop-exercises) 🎮
+- [Search Engines](#search-engines) 🧭
+- [SMB](#smb) 📁
+- [Threat Hunting](#threat-hunting) 🕵️
+- [Threat Intelligence](#threat-intelligence) 🧠
+- [Usernames](#usernames) 👤
+- [Web Crawler](#web-crawler) 🕸️
+- [Web Application Security](#web-application-security) 🌐🔒
+- [Wifi — 802.11](#wifi--80211) 📶
+- [Wireshark](#wireshark) 🦈
+- [Wordlists](#wordlists) 📚
+
+</details>
+
+---
+
+
+## Introduction
+
 Welcome to the Hacker Arsenal Tookit (HaRT)! This repo aims to provide a comprehensive collection of tools and resources for cyber/information security professionals and hacking enthusiasts!
 
 ## Active Directory
@@ -90,6 +163,8 @@ Welcome to the Hacker Arsenal Tookit (HaRT)! This repo aims to provide a compreh
 
 [Trace Labs OSINT Search Party CTF Participation Guide](https://github.com/C3n7ral051nt4g3ncy/TraceLabs-Flag-Categories-Guide) — Flag categories for Trace Labs OSINT Search Party CTF events
 
+[Back to Top⬆️](#top)
+
 ## Cloud
 [CloudFoxable](https://github.com/BishopFox/cloudfoxable) — Create a vulnerable by-design AWS penetration testing playground
 
@@ -136,6 +211,8 @@ Welcome to the Hacker Arsenal Tookit (HaRT)! This repo aims to provide a compreh
 
 [Security Onion 2.4 (Debian) Docker](https://aws.amazon.com/marketplace/pp/prodview-4gpqv3qlxq4ww?ref=_ptnr_soc_docs_230525?ref=_ptnr_soc_docs_230525#pdp-pricing) - [Security Onion SIEM](https://securityonionsolutions.com/)
 
+[Back to Top⬆️](#top)
+
 ## Discord
 [Hacker Discords](https://github.com/INIT6Source/Hacker_Discords) — Curated List of Hacker Discord Servers
 
@@ -161,6 +238,8 @@ to preserve accuracy and precision.
 [Synoposis](https://github.com/ExabeamLabs/Synopsis) -  Tool to  review browser history files by providing a high-level “synopsis” of key information. 
 
 [Unfurl](https://github.com/obsidianforensics/unfurl) -  Extract and Visualize Data from URLs
+
+[Back to Top⬆️](#top)
 
 ## General Cybersecurity / Infosec / Ethical Hacking / Penetration Testing
 [90-Day Cybersecurity Study Plan](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) — Resources for learning topics such as Net+, Sec+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking
@@ -203,6 +282,8 @@ to preserve accuracy and precision.
 
 [SecLists](https://github.com/danielmiessler/SecLists) - Collection of multiple types of lists including usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. 
 
+[Back to Top⬆️](#top)
+
 ## Github
 [Awesome README](https://github.com/matiassingers/awesome-readme) -  Curated list of awesome READMEs 
 
@@ -227,6 +308,8 @@ to preserve accuracy and precision.
 [NMAP & SHODAN ICS/OT Quickstart Guides](https://github.com/utilsec/QuickStart-Guides) — Quick start Nmap & SHODAN guides for ICS/OT assets
 
 [SHODAN ICS/OT Quickstart Guide](https://github.com/utilsec/OSINT) — Quick start SHODAN guides for ICS/OT assets
+
+[Back to Top⬆️](#top)
 
 ## Malware
 [ELFEN](https://github.com/nikhilh-20/ELFEN) - Automated Linux Malware Analysis Sandbox 
@@ -310,6 +393,8 @@ to preserve accuracy and precision.
 [YaSeeker](https://github.com/HowToFind-bot/YaSeeker) -  Yandex OSINT tool 
 
 [Zehef](https://github.com/N0rz3/Zehef) - See if your personal or corporate email has leaked and which sites the e-mail is registered.
+
+[Back to Top⬆️](#top)
 
 ## Packet Captures
 [Utilisec Packet Captures](https://github.com/utilsec/Packet_Captures) — Packet captures for playing with Wireshark and other sniffers
@@ -407,3 +492,4 @@ to preserve accuracy and precision.
 ## Wordlists
 [Nerdlist](https://github.com/TheNerdlist/nerdlist) — Passwords more likely to be used by sysadmins and the folk with access
 
+[Back to Top⬆️](#top)
