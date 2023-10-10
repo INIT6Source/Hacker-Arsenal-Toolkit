@@ -176,8 +176,6 @@ Welcome to the Hacker Arsenal Tookit (HaRT)! This repo aims to provide a compreh
 ## Content Generation
 [AttackGen](https://github.com/mrwadams/attackgen) — Generates tailored incident response scenarios based on user-selected threat actor groups and your organization's details.
 
-[Awesome README](https://github.com/matiassingers/awesome-readme) - Curated list of awesome READMEs 
-
 ## Contracting
 [Contracts](https://github.com/cure53/Contracts) - Collection of potentially useful pentest contract templates 
 
