@@ -3,6 +3,8 @@
 Welcome to the Hacker Arsenal Tookit (HaRT)! This repo aims to provide a comprehensive collection of tools and resources for cyber/information security professionals and hacking enthusiasts!
 
 ## Active Directory
+[ADCSsync](https://github.com/JPG0mez/ADCSync) -  Use ESC1 to perform a makeshift DCSync and dump hashes 
+
 [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - Enumerating logged on users, spidering SMB shares, executing psexec style attacks, auto-injecting Mimikatz/Shellcode/DLL’s into memory using Powershell, dumping the NTDS.dit, etc
 
 [Linikatz](https://github.com/CiscoCXSecurity/linikatz) — [Mimikatz et al on UNIX](https://labs.portcullis.co.uk/download/eu-18-Wadhwa-Brown-Where-2-worlds-collide-Bringing-Mimikatz-et-al-to-UNIX.pdf)
@@ -16,6 +18,8 @@ Welcome to the Hacker Arsenal Tookit (HaRT)! This repo aims to provide a compreh
 
 [Periscope](https://github.com/malcomvetter/Periscope) — Adversarial Operations Toolkit including C2, stagers, agents, ephemeral infrastructure, phishing engine, and automation
 
+[RITA](https://github.com/activecm/rita) - Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis. 
+
 ## Aerospace
 [Aerospace Hacking Tools](https://github.com/ANG13T/aerospace-hacking-tools) - Space-related cybersecurity tools
 
@@ -28,11 +32,18 @@ Welcome to the Hacker Arsenal Tookit (HaRT)! This repo aims to provide a compreh
 ## Ai
 [Ai Prompt Examples](https://github.com/brock-infosec/Ai-Prompt-Examples) — Examples of Ai Prompts
 
+[DocsGPT](https://github.com/arc53/DocsGPT) -  GPT-powered chat for documentation
+
 [HackBot](https://github.com/morpheuslord/HackBot) — AI-powered cybersecurity chatbot designed to answer cybersecurity-related queries, conduct code analysis, and scan analysis.
 
 [LLM Prompt Library](https://github.com/abilzerian/LLM-Prompt-Library) — Manipulation Prompts for various LLMs such as GPT-4, Claude, Llama2, Falcon, Bard, etc
 
+[PowerShellAi](https://github.com/dfinke/PowerShellAI) - PowerShell AI module for OpenAI GPT-3 and DALL-E 
+
+[RateMyAi](https://github.com/milosilo/RateMyAI/tree/main) - Prompt engineering tool for AI Models with CLI prompt or API usage 
+
 ## Attack Surface Management
+[RedEye](https://github.com/cisagov/RedEye) - Assess and display data, evaluate mitigation strategies, and enable decision making in response to a Red Team assessment. 
 
 [Sn1per](https://github.com/1N3/Sn1per) -  Attack Surface Management Platform 
 
@@ -156,9 +167,15 @@ to preserve accuracy and precision.
 
 [Awesome-Cyber](https://github.com/landoncrabtree/awesome-cyber) — List of cybersecurity tools for red, blue, and purple team operations.
 
+[Awesome-Pentest](https://github.com/enaqx/awesome-pentest) - Collection of awesome penetration testing resources, tools, etc
+
 [CatSalad Social Media List](https://github.com/devsalad/catsalad/blob/main/cslists.20230924.csv) - List of Cyber/Infosec/Hacker social media to follow
 
+[Bad Practices](https://github.com/cisagov/bad-practices) -  CISA's catalog of bad practices that are exceptionally risky. 
+
 [Cybersec Content Creators and Free Learning Resources](https://github.com/shenetworks/Free_Tech_Resources) — Curated List of Cybersec Content Creators & Free Learning Resources
+
+[CSET - Cybersecurity Evaluation Tool](https://github.com/cisagov/cset) - Systematic and repeatable approach for assessing the cybersecurity posture of networks
 
 [Cybersecurity Resources](https://github.com/Nickyie/Cybersecurity-Resources) — Library of various cybersecurity resources
 
@@ -178,7 +195,13 @@ to preserve accuracy and precision.
 
 [Offensive Bookmarks](https://github.com/kargisimos/offensive-bookmarks) — Collection of bookmarks for penetration testers, bug bounty hunters, malware developers, reverse engineers and anyone interested in infosec topics.
 
-[Public Pentesting Reports](https://github.com/juliocesarfort/public-pentesting-reports) -  List of public penetration test reports published by several consulting firms and academic security groups. 
+[Pentests Findings](https://github.com/cisagov/pen-testing-findings) - Collection of AD, phishing, mobile, system, service, web app, and wireless weaknesses.
+
+[Public Pentesting Reports](https://github.com/juliocesarfort/public-pentesting-reports) - List of public penetration test reports published by several consulting firms and academic security groups. 
+
+[Red Team Diaries](https://github.com/ihebski/A-Red-Teamer-diaries) - Red Team/Pentest notes from professional engagements on several infrastructures
+
+[SecLists](https://github.com/danielmiessler/SecLists) - Collection of multiple types of lists including usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. 
 
 ## Github
 [Awesome README](https://github.com/matiassingers/awesome-readme) -  Curated list of awesome READMEs 
@@ -233,16 +256,24 @@ to preserve accuracy and precision.
 
 [Awesome Mobile Security](https://github.com/vaib25vicky/awesome-mobile-security) - Collection of useful android and iOS security related stuff
 
+[Bazaar](https://github.com/Pithus/bazaar) - Free and open-source platform to analyze Android applications
+
+[Mobile Trackers](https://github.com/craiu/mobiletrackers) -  Repo of telemetry domains and URLs used by mobile location tracking, user profiling, targeted marketing and aggressive ads libraries. 
+
 ## Nessus
 [Nessusploitable](https://github.com/sdcampbell/Nessusploitable) — Parses .nessus files for exploitable vulnerabilities and outputs a report
 
 ## Network Pentesting
 [5head](https://github.com/Renegade-Labs/5head) — A wrapper of network pentest toolsets within a portable and modular scripting platform that allows repeatable tasks.
 
+[Malcolm](https://github.com/cisagov/Malcolm) - Easily deployable network analysis tool suite for full PCAP files and Zeek logs.
+
 ## OSINT
 [Alfred](https://github.com/Alfredredbird/alfred) — Find social media accounts based on inputs
 
 [Awesome Intelligence](https://github.com/ARPSyndicate/awesome-intelligence) — Curated list of Open-Source Intelligence (OSINT) Resources
+
+[CensysGPT](https://gpt.censys.io/) - Censys query generator
 
 [Counter OSINT Guide](https://github.com/soxoj/counter-osint-guide-en) -  Comprehensive Counter OSINT and privacy guide for Runet and CIS
 
@@ -277,6 +308,8 @@ to preserve accuracy and precision.
 [WiGLE](https://www.wigle.net/) — Wireless Geographic Logging Engine
 
 [YaSeeker](https://github.com/HowToFind-bot/YaSeeker) -  Yandex OSINT tool 
+
+[Zehef](https://github.com/N0rz3/Zehef) - See if your personal or corporate email has leaked and which sites the e-mail is registered.
 
 ## Packet Captures
 [Utilisec Packet Captures](https://github.com/utilsec/Packet_Captures) — Packet captures for playing with Wireshark and other sniffers
@@ -319,6 +352,10 @@ to preserve accuracy and precision.
 ## Threat Hunting
 [Cyber Threat Hunting](https://github.com/A3sal0n/CyberThreatHunting) — Collection of resources for Threat Hunters 
 
+[Decider](https://github.com/cisagov/decider) -  Web app that assists that maps adversary behaviors to the MITRE ATT&CK® framework. 
+
+[Untitled Goose Tool](https://github.com/cisagov/untitledgoosetool) - Hunt and IR tool that adds novel authentication and data gathering methods to run a full investigation against Azure Active Directory (AzureAD), Azure, and M365 environments.
+
 ## Threat Intelligence
 [Threat Intelligence Discord Bot](https://github.com/vxunderground/ThreatIntelligenceDiscordBot) - Gets updates from various clearnet domains and ransomware threat actor domains 
 
@@ -337,11 +374,19 @@ to preserve accuracy and precision.
 ## Web Application Security
 [Awesome-Web-Hacking](https://github.com/infoslack/awesome-web-hacking) - List is for anyone wishing to learn about web application security but no starting point.
 
+[HackTools](https://github.com/LasCC/HackTools) - Web application pentest browser extension  including cheat sheets and tools such as XSS payloads, Reverse shells/
+
 [H5SC](https://github.com/cure53/H5SC) - Collection of HTML5 related XSS attack vectors 
 
 [HTTPLeaks](https://github.com/cure53/HTTPLeaks) - Enumerate all possible ways, a website can leak HTTP requests. In one single HTML file.
 
+[Payload Box](https://github.com/payloadbox) - Web app payloads
+
+[RobotsDisallowed](https://github.com/danielmiessler/RobotsDisallowed) -  List of the most common and most interesting robots.txt disallowed directories. 
+
 [URLCrazy](https://github.com/urbanadventurer/urlcrazy) - Generate and test domain typos and variations to detect and perform typo squatting, URL hijacking, phishing, and corporate espionage. 
+
+[WrongSecrets](https://github.com/OWASP/wrongsecrets) - Vulnerable app with examples showing how to not use secrets 
 
 ## Wifi — 802.11
 [802.11-Lazy](https://github.com/TotallyNotAHaxxer/802.11-Lazy) -  802.11 auditing in GUI format using aircrack-ng 
