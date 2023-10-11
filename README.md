@@ -13,7 +13,7 @@
 - [Aerospace](#aerospace) ✈️
 - [AI](#ai) 🤖
 - [Attack Surface Management](#attack-surface-management) 📡
-- [Biological Security (BioSec/Biohacking)](#biological-security-biosec-biohacking) 🧬
+- [Biological Security (BioSec/Biohacking)](#biological-security-biosecbiohacking) 🧬
 - [Binary Exploitation](#binary-exploitation) 💾
 - [Bitlocker](#bitlocker) 🔐
 - [Burp Suite](#burp-suite) 🕷️
@@ -45,9 +45,11 @@
 - [Mobile Security](#mobile-security) 📱
 - [Nessus](#nessus) 🕷️
 - [Network Pentesting](#network-pentesting) 🌐
+- [OSCP](#oscp) 💥
 - [OSINT](#osint) 🔎
 - [Packet Captures](#packet-captures) 📦
 - [Password Cracking](#password-cracking) 🔐
+- [Pentesting](#pentesting) 💢
 - [Phishing](#phishing) 🎣
 - [Print Nightmare](#print-nightmare) 🖨️
 - [Privilege Escalation](#privilege-escalation) ⬆️
@@ -120,14 +122,30 @@ Welcome to the Hacker Arsenal Tookit (HaRT)! This repo aims to provide a compreh
 
 [Sn1per](https://github.com/1N3/Sn1per) -  Attack Surface Management Platform 
 
-## Biological Security (BioSec/Biohacking)
-[Biohack.me](https://forum.biohack.me/) - Virtual home of grinders everywhere
+## Biological Security (BioSec/Biohacking/Augmentation)
+[Biohack.me Forum](https://forum.biohack.me/) - Virtual home of grinders everywhere
+
+[Dangerous Things Forum](https://forum.dangerousthings.com/) - A place to discuss biohacking, projects, and technology
 
 [Fingerprint BioSec](https://github.com/ANG13T/fingerprint-biosec) - Fingerprint Pattern Recognition
 
-### Reading
+[Human Augmentation Institute](https://www.humanaug.org/) - Upholding bodily autonomy and ensuring that any efforts in human augmentation are done ethically, safely, and responsibly
+
+[Keeping Track of Time with NFC Implant](https://djanes.xyz/how-i-keep-track-of-time-with-my-nfc-implant/) - IFTTT recipe to keep track of  working hours using a google spreadsheet and NFC implant
+
+### Readings
 
 [Biohackers grapple with rejecting/embracing science](https://www.statnews.com/2019/09/01/biohacker-conference-las-vegas/?utm_content=buffer36ec1&utm_medium=social&utm_source=facebook&utm_campaign=facebook_organic) 
+
+[Common Cyborg](https://granta.com/common-cyborg/) - "I’m nervous at night when I take off my leg."
+
+[Heavenly Bodies](https://afutureworththinkingabout.com/?p=5396\) - Why it matters that Cyborgs have always been about Disability, Mental Health, and Marginalization
+
+[How I became a Cyborg](https://www-marketwatch-com.cdn.ampproject.org/v/s/www.marketwatch.com/amp/story/i-joined-an-underground-medical-movement-but-had-to-become-a-cyborg-to-do-it-2016-11-15?amp_js_v=a3&amp_gsa=1&usqp=mq331AQFKAGwASA%3D#aoh=15939749175777&referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.marketwatch.com%2Fstory%2Fi-joined-an-underground-medical-movement-but-had-to-become-a-cyborg-to-do-it-2016-11-15) - Use of tech implants to augment biology
+
+[Majority of Europeans Consider Human Augmentation](https://thenextweb.com/news/majority-of-europeans-would-consider-human-augmentation-study-finds) 
+
+[Neuralink Hype vs Science](https://singularityhub.com/2020/09/01/neuralinks-new-brain-implant-the-hype-vs-the-science/) 
 
 ## Binary Exploitation 
 [Modern Binary Exploitation](https://github.com/RPISEC/MBE) — x86 reverse engineering, vulnerability analysis, and Linux-based userland binary exploitation, protections (Canaries, DEP, ASLR, RELRO, Fortify Source, etc.) and techniques used to defeat them, kernel-land and Windows-based exploitation.
@@ -252,21 +270,15 @@ to preserve accuracy and precision.
 
 [Awesome-Cyber](https://github.com/landoncrabtree/awesome-cyber) — List of cybersecurity tools for red, blue, and purple team operations.
 
-[Awesome-Pentest](https://github.com/enaqx/awesome-pentest) - Collection of awesome penetration testing resources, tools, etc
-
 [CatSalad Social Media List](https://github.com/devsalad/catsalad/blob/main/cslists.20230924.csv) - List of Cyber/Infosec/Hacker social media to follow
 
 [Bad Practices](https://github.com/cisagov/bad-practices) -  CISA's catalog of bad practices that are exceptionally risky. 
 
 [Cybersec Content Creators and Free Learning Resources](https://github.com/shenetworks/Free_Tech_Resources) — Curated List of Cybersec Content Creators & Free Learning Resources
 
-[CSET - Cybersecurity Evaluation Tool](https://github.com/cisagov/cset) - Systematic and repeatable approach for assessing the cybersecurity posture of networks
-
 [Cybersecurity Resources](https://github.com/Nickyie/Cybersecurity-Resources) — Library of various cybersecurity resources
 
 [Defcon Parrot](https://github.com/DefconParrot) - Curated Lists of Tools, DCGs, Dates, etc
-
-[Exploit Notes](https://github.com/hideckies/exploit-notes) — Sticky notes for pentesting, bug bounty, and CTF
 
 [Free Tech Resources](https://github.com/shenetworks/Free_Tech_Resources) - Cybersecurity Content Creators & Free Learning Resources
 
@@ -277,14 +289,6 @@ to preserve accuracy and precision.
 [Knowledge Book Cyber Weapons Dump](https://github.com/TotallyNotAHaxxer/knowlege-book-cyber-weapons-dump) - Collection of Scripts
 
 [Mindmap](https://github.com/Ignitetechnologies/Mindmap) — Mindmaps for cyber security technologies, methodologies, courses, and certifications
-
-[Offensive Bookmarks](https://github.com/kargisimos/offensive-bookmarks) — Collection of bookmarks for penetration testers, bug bounty hunters, malware developers, reverse engineers and anyone interested in infosec topics.
-
-[Pentests Findings](https://github.com/cisagov/pen-testing-findings) - Collection of AD, phishing, mobile, system, service, web app, and wireless weaknesses.
-
-[Public Pentesting Reports](https://github.com/juliocesarfort/public-pentesting-reports) - List of public penetration test reports published by several consulting firms and academic security groups. 
-
-[Red Team Diaries](https://github.com/ihebski/A-Red-Teamer-diaries) - Red Team/Pentest notes from professional engagements on several infrastructures
 
 [SecLists](https://github.com/danielmiessler/SecLists) - Collection of multiple types of lists including usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. 
 
@@ -418,6 +422,21 @@ to preserve accuracy and precision.
 
 ## Password Cracking
 [Panalyzer](https://github.com/ShawnDEvans/panalyzer) - Password list character frequency analyzer that can output hashcat masks 
+
+## Pentesting
+[Awesome-Pentest](https://github.com/enaqx/awesome-pentest) - Collection of awesome penetration testing resources, tools, etc.
+
+[CSET - Cybersecurity Evaluation Tool](https://github.com/cisagov/cset) - Systematic and repeatable approach for assessing the cybersecurity posture of networks
+
+[Exploit Notes](https://github.com/hideckies/exploit-notes) — Sticky notes for pentesting, bug bounty, and CTF
+
+[Offensive Bookmarks](https://github.com/kargisimos/offensive-bookmarks) — Collection of bookmarks for penetration testers, bug bounty hunters, malware developers, reverse engineers and anyone interested in infosec topics.
+
+[Pentests Findings](https://github.com/cisagov/pen-testing-findings) - Collection of AD, phishing, mobile, system, service, web app, and wireless weaknesses.
+
+[Public Pentesting Reports](https://github.com/juliocesarfort/public-pentesting-reports) - List of public penetration test reports published by several consulting firms and academic security groups. 
+
+[Red Team Diaries](https://github.com/ihebski/A-Red-Teamer-diaries) - Red Team/Pentest notes from professional engagements on several infrastructures
 
 ## Phishing
 [OpenSquat](https://github.com/atenreiro/opensquat) — Detect phishing domains and domain squatting; Searches for newly registered domains that impersonate legitimate domains on a daily basis.
