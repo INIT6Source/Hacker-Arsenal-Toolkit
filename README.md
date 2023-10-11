@@ -389,6 +389,8 @@ to preserve accuracy and precision.
 
 [Trace Labs OSINT Search Party CTF](https://github.com/C3n7ral051nt4g3ncy/TraceLabs-Flag-Categories-Guide) — Flag categories for Trace Labs OSINT Search Party CTF events
 
+[Trace Labs OSINT VM](https://www.tracelabs.org/initiatives/osint-vm) - OSINT VM with the most effective tools and customized scripts used during Search Party CTF’s
+
 [WhatsMyName](https://github.com/webbreacher/whatsmyname) -  Username enumeration on various websites. 
 
 [WiGLE](https://www.wigle.net/) — Wireless Geographic Logging Engine
