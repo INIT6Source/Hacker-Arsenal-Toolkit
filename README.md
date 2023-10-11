@@ -121,7 +121,13 @@ Welcome to the Hacker Arsenal Tookit (HaRT)! This repo aims to provide a compreh
 [Sn1per](https://github.com/1N3/Sn1per) -  Attack Surface Management Platform 
 
 ## Biological Security (BioSec/Biohacking)
+[Biohack.me](https://forum.biohack.me/) - Virtual home of grinders everywhere
+
 [Fingerprint BioSec](https://github.com/ANG13T/fingerprint-biosec) - Fingerprint Pattern Recognition
+
+### Reading
+
+[Biohackers grapple with rejecting/embracing science](https://www.statnews.com/2019/09/01/biohacker-conference-las-vegas/?utm_content=buffer36ec1&utm_medium=social&utm_source=facebook&utm_campaign=facebook_organic) 
 
 ## Binary Exploitation 
 [Modern Binary Exploitation](https://github.com/RPISEC/MBE) — x86 reverse engineering, vulnerability analysis, and Linux-based userland binary exploitation, protections (Canaries, DEP, ASLR, RELRO, Fortify Source, etc.) and techniques used to defeat them, kernel-land and Windows-based exploitation.
@@ -136,6 +142,8 @@ Welcome to the Hacker Arsenal Tookit (HaRT)! This repo aims to provide a compreh
 
 ## Car Hacking
 [AutoHack OS (Linux) VM](https://bit.ly/autohackos) — [Automotive Pentesting/Car Hacking](https://autohackos.com/); [Github](https://github.com/autohackos)
+
+[Operation CHARM](https://charm.li/) - Car repair manuals for everyone.
 
 ## Career 
 [Hacker Hiring Discord](https://github.com/INIT6Source/Hacker_Hiring_Discords) — Curated List of Hacker Discord Servers with Hiring Channels
@@ -348,6 +356,17 @@ to preserve accuracy and precision.
 [5head](https://github.com/Renegade-Labs/5head) — A wrapper of network pentest toolsets within a portable and modular scripting platform that allows repeatable tasks.
 
 [Malcolm](https://github.com/cisagov/Malcolm) - Easily deployable network analysis tool suite for full PCAP files and Zeek logs.
+
+## OSCP
+[OSCP Bible](https://github.com/mohitkhemchandani/OSCP_BIBLE) - Collection of resources, scripts, bookmarks, writeups, notes, cheatsheets that will help in OSCP Preparation
+
+[OSCP Enumeration Handbook](https://github.com/LeonVQZ/OSCP-Enum-Handbook/tree/main) - Enumeration Handbook for the OSCP 2023 
+
+[OSCP: Good, Bad, Ugly](https://whoami.leonvqz.com/certifications/oscp-the-good-the-bad-and-the-ugly) - OSCP Pros, Cons, Review, Etc.
+
+[OSCP Playbook](https://fareedfauzi.gitbook.io/oscp-playbook/) - fareedfauzi OSCP notes
+
+[OSCP Reborn](https://johnjhacking.com/blog/oscp-reborn-2023/) - Revamped OSCP guide which includes Active Directory exploitation. 
 
 ## OSINT
 [Alfred](https://github.com/Alfredredbird/alfred) — Find social media accounts based on inputs
