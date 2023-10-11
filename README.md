@@ -151,6 +151,8 @@ Welcome to the Hacker Arsenal Tookit (HaRT)! This repo aims to provide a compreh
 [DealsForMeals](https://github.com/ANG13T/DealsForMeals_App) - Help low-income families with finding the best deals; eliminates sorting through dozens of websites of individual food banks, and shortens the distance from accessible food
 
 ## CTF
+[BSides Belfast CTF Thread](https://twitter.com/bsidesbelfast/status/1696118602032697815?t=zgnUZEVDn9q9-A0gqAsZPw&s=09) - Places to play (or compete) in CTFs all year round.
+
 [Cloud CTF Tools](https://github.com/DEAD10C5/ctf-cloud-tools) — Cloud CTF Docker Container
 
 [CTFd Platform](https://github.com/CTFd/CTFd) — CTFs as you need them; Hosting — [CTFd.io](https://ctfd.io/)
