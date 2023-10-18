@@ -181,6 +181,13 @@ Welcome to the Hacker Arsenal Tookit (HaRT)! This repo aims to provide a compreh
 ## Conferences 
 [Infosec Events](https://github.com/xsa/infosec-events) — List of cyber-infosec-hacker related events. 
 
+## Content Creation Tool
+[Auphonic](https://auphonic.com/) - Audio post-production tools
+
+[Freesound](https://freesound.org/browse/) - Wide variety of audio clips, sound effects, and samples that are licensed under Creative Commons licenses
+
+[TextFX](https://textfx.withgoogle.com/) - Expand the writing process by Ai-generating creative possibilities with text and language tools
+
 ## Content Generation
 [AttackGen](https://github.com/mrwadams/attackgen) — Generates tailored incident response scenarios based on user-selected threat actor groups and your organization's details.
 
@@ -256,6 +263,8 @@ to preserve accuracy and precision.
 
 [Bad Practices](https://github.com/cisagov/bad-practices) -  CISA's catalog of bad practices that are exceptionally risky. 
 
+[Cisco Ethical Hacker Self-Paced Learning](https://skillsforall.com/course/ethical-hacker?courseLang=en-US) - Learn offensive security to uncover cyber threats and vulnerabilities before the cybercriminals do. 
+
 [Cybersec Content Creators and Free Learning Resources](https://github.com/shenetworks/Free_Tech_Resources) — Curated List of Cybersec Content Creators & Free Learning Resources
 
 [Cybersecurity Resources](https://github.com/Nickyie/Cybersecurity-Resources) — Library of various cybersecurity resources
@@ -319,6 +328,10 @@ to preserve accuracy and precision.
 
 ## Metasploitable3
 [Rapid7 Metasploitable3](https://github.com/rapid7/metasploitable3) — VM that is built from the ground up with a large amount of security vulnerabilities.
+
+[Trembling Uterus Ubuntu](https://tremblinguterus.blogspot.com/2020/11/metasploitable-3-ubuntu-walkthrough_89.html) - Metasploitable3 Ubuntu Walkthrough
+
+[Trembling Uterus Windows](https://tremblinguterus.blogspot.com/2020/11/metasploitable-3-windows-walkthrough_34.html) - Metasploitable3 Windows Walkthrough
 
 ## Microsoft Office 365
 [ScubaGear](https://github.com/cisagov/ScubaGear) — Automation to assess the state of your M365 tenant against CISA's baselines
@@ -419,6 +432,8 @@ to preserve accuracy and precision.
 [Public Pentesting Reports](https://github.com/juliocesarfort/public-pentesting-reports) - List of public penetration test reports published by several consulting firms and academic security groups. 
 
 [Red Team Diaries](https://github.com/ihebski/A-Red-Teamer-diaries) - Red Team/Pentest notes from professional engagements on several infrastructures
+
+[Red Team Field Manual Video Library](https://www.thertfm.com/rtfm-video-library) - RTFM Video Library
 
 ## Phishing
 [OpenSquat](https://github.com/atenreiro/opensquat) — Detect phishing domains and domain squatting; Searches for newly registered domains that impersonate legitimate domains on a daily basis.
