@@ -359,8 +359,6 @@ to preserve accuracy and precision.
 
 [Awesome Intelligence](https://github.com/ARPSyndicate/awesome-intelligence) — Curated list of Open-Source Intelligence (OSINT) Resources
 
-[CensysGPT](https://gpt.censys.io/) - Censys query generator
-
 [Counter OSINT Guide](https://github.com/soxoj/counter-osint-guide-en) -  Comprehensive Counter OSINT and privacy guide for Runet and CIS
 
 [Discord OSINT](https://github.com/AtonceInventions/DiscordOSINT) — Resources to conduct research and OSINT investigations on Discord accounts
@@ -448,11 +446,16 @@ to preserve accuracy and precision.
 ## Search Engines
 [Awesome-Hacker-Search-Engines](https://github.com/edoardottt/awesome-hacker-search-engines) - Curated list of search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more 
 
+[Censys](https://centralops.net/co/) - Investigate domains and IP addresses
+
+[CensysGPT](https://gpt.censys.io/) - Censys query generator
+
 [Search Engines for Pentesters](https://github.com/INIT6Source/Search-Engines-for-Pentesters) — Assorted Pentest Search Engines
+
+[SHODAN](https://www.shodan.io/) - search engine for internet-connected devices
 
 ## SMB
 [SMBmap](https://github.com/ShawnDEvans/smbmap) - SMB Enumeration Tool
-
 
 ## Threat Hunting
 [Cyber Threat Hunting](https://github.com/A3sal0n/CyberThreatHunting) — Collection of resources for Threat Hunters 
