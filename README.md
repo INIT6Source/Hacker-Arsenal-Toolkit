@@ -359,6 +359,8 @@ to preserve accuracy and precision.
 ## OSCP
 [OSCP Bible](https://github.com/mohitkhemchandani/OSCP_BIBLE) - Collection of resources, scripts, bookmarks, writeups, notes, cheatsheets that will help in OSCP Preparation
 
+[OSCP Cheat Sheet](https://github.com/0xsyr0/OSCP) - Commands, Payloads and Resources for the OSCP
+
 [OSCP Enumeration Handbook](https://github.com/LeonVQZ/OSCP-Enum-Handbook/tree/main) - Enumeration Handbook for the OSCP 2023 
 
 [OSCP: Good, Bad, Ugly](https://whoami.leonvqz.com/certifications/oscp-the-good-the-bad-and-the-ugly) - OSCP Pros, Cons, Review, Etc.
