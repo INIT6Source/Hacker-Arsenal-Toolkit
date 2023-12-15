@@ -357,6 +357,8 @@ to preserve accuracy and precision.
 [Malcolm](https://github.com/cisagov/Malcolm) - Easily deployable network analysis tool suite for full PCAP files and Zeek logs.
 
 ## OSCP
+[Noobs Guide to OSCP 2023](https://medium.com/@purpleXsec/noobs-guide-to-passing-oscp-2023-exam-f7ee1f347309) - OSCP Notes
+
 [OSCP](https://github.com/xsudoxx/OSCP) - OSCP Notes
 
 [OSCP Bible](https://github.com/mohitkhemchandani/OSCP_BIBLE) - Collection of resources, scripts, bookmarks, writeups, notes, cheatsheets that will help in OSCP Preparation
